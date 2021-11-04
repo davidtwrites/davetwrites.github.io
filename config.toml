@@ -2,6 +2,9 @@ baseURL = "http://davewrites.co.uk/"
 languageCode = "en-gb"
 title = "davewrites"
 theme = "hugo-theme-hello-friend-ng"
+relativeURLs = true
+canonifURLs = true
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"

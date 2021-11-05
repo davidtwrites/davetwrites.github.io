@@ -1,7 +1,7 @@
 ---
 title: "Running"
 date: 2021-10-04T17:53:56+01:00
-draft: true
+draft: false
 toc: false
 images:
 catagory: testing12345
